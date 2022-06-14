@@ -5,8 +5,8 @@ public class Ejercicio1 {
 		
 		int edad = 38;
 		String nombre = "Emanuel";
-		
-		System.out.println(" Mi nombre es " + nombre + " y mi edad es de " + edad + " años");
+		String apellido= "Ramirez";
+		System.out.println(" Mi nombre es " + nombre + ", mi apellido es "+ apellido + " y mi edad es de " + edad + " años");
 		
 		
 		
